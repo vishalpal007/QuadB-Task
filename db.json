@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "task": "Task 1",
+      "priority": "Medium",
+      "id": 1
+    }
+  ]
+}
